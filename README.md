@@ -1,0 +1,1 @@
+# Ordinal-and-Multiclass-Fire-Risk-Prediction-on-Satellite-Imagery
