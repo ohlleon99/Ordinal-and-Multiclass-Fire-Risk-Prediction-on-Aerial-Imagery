@@ -53,7 +53,7 @@ Notes:
 - The dataset is not included in this repository
 - A 60/20/20 split (train/val/test) is created during runtime
 
-### Usage Notes:
+## Usage Notes:
 - Run chapters 1 (Imports) and 3 (Dataset) before all other chapters
 - Individual sections depend on previous components (see comments in beginning of chapters)
 - If not running individual chapters, the script can be executed as a whole
