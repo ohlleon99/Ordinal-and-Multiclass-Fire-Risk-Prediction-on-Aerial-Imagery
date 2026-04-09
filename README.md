@@ -14,7 +14,7 @@ It compares multiple approaches on the **FireRisk dataset**, including:
 
 Best-performing model (Swin + SVC):
 
-- **Accuracy:** 61.25%  
+- **Accuracy:** 62.04%  
 - **F1-score:** 58.44%  
 
 Ordinal regression improves prediction consistency:
